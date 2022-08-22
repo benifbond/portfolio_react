@@ -8,7 +8,7 @@ import { useState } from "react";
 const Nav = () => {
   const [activeNav, setActiveNav] = useState();
   return <nav>
-    <a  href="#" className={activeNav ==="#"? "active":""}onClick={()=>setActiveNav("#")}> <AiOutlineHome /> </a>
+    <a  href="#home" className={activeNav ==="#"? "active":""}onClick={()=>setActiveNav("#")}> <AiOutlineHome /> </a>
     <a  href="#about" onClick={()=>setActiveNav("#about")} className={activeNav ==="#about"? "active":""}> <AiOutlineUser /></a>
     <a  href="#experience" onClick={()=>setActiveNav("#experience")} className={activeNav ==="#experience"? "active":""}> <AiFillBook /> </a>
     <a  href="#services" onClick={()=>setActiveNav("#services")} className={activeNav ==="#services"? "active":""}> <RiServiceFill /> </a>

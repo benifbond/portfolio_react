@@ -8,34 +8,35 @@ import "./portfolio.css";
 
 const data = [
   {
-  key :1,
+  id :1,
   image: IMG1,
 title: "The Book sharing App",
 github: "https://github.com/benifbond",
 demo:"https://dribble.com"
 
-},{
-  key :2,
+},
+{
+  id :2,
   image: IMG2,
 title: "The Ecommerce Store",
 github: "https://github.com/benifbond",
 demo:"https://dribble.com"
 },
 {
-  key :3,
+  id :3,
   image: IMG3,
 title: "The Book sharing App",
 github: "https://github.com/benifbond",
 demo:"https://dribble.com"
 },
-{key :4,
+{id :4,
   image: IMG4,
 title: "Memory Game Book sharing App",
 github: "https://github.com/benifbond",
 demo:"https://dribble.com"
 },
 {
-  key:5,
+  id:5,
   image: IMG5,
 title: "The JOBBYaPP",
 github: "https://github.com/benifbond",
