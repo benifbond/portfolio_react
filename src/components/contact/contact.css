@@ -37,7 +37,7 @@
     font-size: 0.8rem
 }
 
-/* =============FORM ================ */
+
 
 form {
     display: flex;
@@ -70,7 +70,7 @@ textarea {
 }
 
 
-/* ===============MEDIA QUERY ( SMALL DEVICES)=========/// */
+
 
 @media screen and (max-width:600px) {
     .container.contact__container {

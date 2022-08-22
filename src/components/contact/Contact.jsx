@@ -33,13 +33,12 @@ const Contact = () => {
 <article className="contact__option">
   <AiTwotoneMail className="contact__option-icon" />
   <h4>Email</h4>
-  <h5>ifeanyionyebueke.ben@gmail.com</h5>
   <a href="mailto:ifeanyionyebueke.ben@gmail.com" target={"_blank"} rel="noreferrer"> Send a message</a>
 </article>
 <article className="contact__option">
   <BsLinkedin className="contact__option-icon"/>
   <h4>LinkedIn</h4>
-  <h5>benny</h5>
+
   <a href="https://www.linkedin.com/in/beniah-onyebueke" target={"_blank"} rel="noreferrer"> Send a message</a>
 </article>
 <article className="contact__option">

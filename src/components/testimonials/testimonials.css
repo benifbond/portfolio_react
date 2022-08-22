@@ -35,13 +35,13 @@
 
 
 
-@media screen and (max-width:1024px) {}
+@media screen and (max-width:1024px) {
 
 .container .testimonials__container {
     width: 60%
 }
+}
 
-/* ===============MEDIA QUERY ( SMALL DEVICES)=========/// */
 
 @media screen and (max-width:600px) {
     .container .testimonials__container {

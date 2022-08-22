@@ -11,7 +11,7 @@ header {
 }
 
 
-/* ======================CTA============= */
+
 
 .cta {
     margin-top: 2.5rem;
@@ -21,7 +21,7 @@ header {
 }
 
 
-/* =================HEADER SOCIALS============ */
+
 
 .header__socials {
     display: flex;
@@ -41,7 +41,7 @@ header {
 }
 
 
-/* ===============ME ================ */
+
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
@@ -56,7 +56,7 @@ header {
 }
 
 
-/* ===============SCROLL DOWN============== */
+
 
 .scroll_down {
     position: absolute;
@@ -68,7 +68,7 @@ header {
 }
 
 
-/* ===============MEDIA QUERY (MEDIUM DEVICES)=========/// */
+
 
 @media screen and (max-width:1024px) {
     header {
@@ -82,7 +82,6 @@ header {
 }
 
 
-/* ===============MEDIA QUERY ( SMALL DEVICES)=========/// */
 
 @media screen and (max-width:600px) {
     header {
