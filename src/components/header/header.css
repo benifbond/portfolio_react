@@ -9,9 +9,10 @@ header {
     height: 100%;
     position: relative;
 }
+.Typewriter {
+    color: var(--color-primary);
 
-
-
+}
 
 .cta {
     margin-top: 2.5rem;

@@ -27,7 +27,7 @@ demo:"https://dribble.com"
   image: IMG3,
 title: "The Book sharing App",
 github: "https://github.com/benifbond",
-demo:"https://dribble.com"
+demo:"https://sharebooka.herokuapp.com/"
 },
 {id :4,
   image: IMG4,

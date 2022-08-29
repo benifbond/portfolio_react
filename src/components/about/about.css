@@ -99,10 +99,10 @@ about__content p {
 
     .about__content {
         text-align: center;
-
+    
     }
 
-                                                                                                                                                                                                                                                                .about__content p {
-        margin: 2rem 0;
-    }
+.about__content p {
+    margin: 2rem 0;
+}
 }
